@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/resuce-conspect//static/css/main.aaaf48ca.css",
-    "main.js": "/resuce-conspect//static/js/main.923ee3e5.js",
-    "index.html": "/resuce-conspect//index.html",
-    "main.aaaf48ca.css.map": "/resuce-conspect//static/css/main.aaaf48ca.css.map",
-    "main.923ee3e5.js.map": "/resuce-conspect//static/js/main.923ee3e5.js.map"
+    "main.css": "/resuce-conspect/static/css/main.aaaf48ca.css",
+    "main.js": "/resuce-conspect/static/js/main.923ee3e5.js",
+    "index.html": "/resuce-conspect/index.html",
+    "main.aaaf48ca.css.map": "/resuce-conspect/static/css/main.aaaf48ca.css.map",
+    "main.923ee3e5.js.map": "/resuce-conspect/static/js/main.923ee3e5.js.map"
   },
   "entrypoints": [
     "static/css/main.aaaf48ca.css",
